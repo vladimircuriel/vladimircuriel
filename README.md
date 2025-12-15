@@ -30,7 +30,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vladimircuriel-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vladimircuriel) 
 [![GitHub](https://img.shields.io/badge/GitHub-vladimircuriel-purple?style=for-the-badge&logo=github)](https://github.com/vladimircuriel) 
 [![Email](https://img.shields.io/badge/Email-vladimircuriel-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vladimircuriel.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-vladimircuriel-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vladimircuriel)
 
 <h1 align="center">
 </h1>
