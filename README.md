@@ -2,7 +2,7 @@
     👋 Hello there, I'm Vladimir Curiel!
 </h1>
 
-<a href="https://vladimircuriel.com"> 
+<a href="https://vladimircuriel.com" target="_blank" rel="noopener noreferrer"> 
     <img src="https://github.com/user-attachments/assets/7d78292c-7762-4ce7-a2e8-7049f721a7f4" />
 </a>
 
