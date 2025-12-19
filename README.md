@@ -20,7 +20,7 @@
         🌍 Living in the Dominican Republic 🇩🇴, eager to contribute globally and deliver quality software.
     </li>
     <li>
-        💻 Experienced in SpringBoot, NextJS, AstroJS, React Native, and a wide array of tools and platforms to improve results.     
+        💻 Experienced in Software Engineering, Data Engineering, Data Science and IA.
     </li>
 <li>
     📊 Fascinated by data engineering and the potential of AI, with a interest in building scalable solutions.
