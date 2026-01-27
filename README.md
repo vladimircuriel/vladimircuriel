@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://vladimircuriel.com" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://github.com/user-attachments/assets/7d78292c-7762-4ce7-a2e8-7049f721a7f4" />
+    <img src="https://github.com/user-attachments/assets/4aafa583-c35e-4746-8cd8-2a97ceed7836" />
 </a>
 
 <h1 align="center">
